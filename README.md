@@ -58,9 +58,3 @@ The final output layer predicts the next token (character).
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/<your-username>/miniGPT-from-scratch.git
-cd miniGPT-from-scratch
